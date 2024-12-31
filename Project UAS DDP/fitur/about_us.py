@@ -7,9 +7,9 @@ definisi = "Definisi kelompok kami adalah selalu pantang menyerah, optimis, sela
 akhir = "Yang membuat solidaritas kami sebagai teman didalam satu kelas menjadi kuat, dan telah selesai untuk menyelesaikan tugas Project ini. Terima kasih semuanya!"
 
 if st.button("Learn more"):
-    st.error(f"{sekilas_kami}")
-    st.warning(f"{definisi}")
-    st.success(f"{akhir}")
+    st.info(f"{sekilas_kami}")
+    st.info(f"{definisi}")
+    st.info(f"{akhir}")
 
 st.write("---")
 st.write("© 2024 Kelompok 5. Hak cipta dilindungi.")
