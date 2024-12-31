@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#90CAF9"      # Biru muda lembut
+backgroundColor = "#F5F5F5"   # Putih krem yang menenangkan
+secondaryBackgroundColor = "#E3F2FD" # Biru pucat untuk area sidebar
+textColor = "#424242"         # Abu-abu gelap untuk kenyamanan membaca
+font = "sans serif"           # Font sederhana dan bersih
